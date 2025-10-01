@@ -3,4 +3,4 @@
 
 /* :root {} */
 
-body { @apply bg-black text-white; }
+:root { @apply bg-white; }
